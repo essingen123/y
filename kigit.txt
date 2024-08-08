@@ -8,10 +8,10 @@ set303a=y
 set303i=y
 
 # git-reponame (empty for current folder name, 'random' for a random name)
-set303b=youtube_download_audio_mp3_your_own_material_only
+set303b=y
 
 # public git (private for private, public for public)
-set303c=private
+set303c=public
 
 # auto generate HTML page, y for yes and n for no
 set303d=y
