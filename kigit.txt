@@ -11,7 +11,7 @@ set303i=y
 set303b=youtube_download_audio_mp3_your_own_material_only
 
 # 🔒 public git, y for yes n for no, standard no
-set303c=n
+set303c=private
 
 # 📄 auto generate HTML page, y for yes and n for no
 set303d=y
