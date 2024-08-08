@@ -8,10 +8,10 @@ set303a=y
 set303i=y
 
 # 📝 git-reponame (empty for current folder name, 'random' for a random name)
-set303b=youtube_download_audio_mp3_your_own_material_only
+set303b=y
 
 # 🔒 public git, y for yes n for no, standard no
-set303c=n
+set303c=y
 
 # 📄 auto generate HTML page, y for yes and n for no
 set303d=y
@@ -23,7 +23,7 @@ set303e=Git, Bash, Automation, Automagic, un-PEP8-perhaps
 set303f=A work in progress with automation testing for Git leveraging python, bash etc
 
 # 🌐 website URL
-set303g="$github_pages_repo_url"
+set303g=
 
 # 🎉 GithubPartywebpageLink
 set303h=index.html
